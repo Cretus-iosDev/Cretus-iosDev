@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Cretus-iosDev
+- 👋 Hi, I’m is Rutik Maraskolhe also known as -> ( Cretus-iosDev )
 - 👀 I’m interested in ios and watchOS development
 - 🌱 learning new things
 - 💞️ I’m looking to collaborate on with new people
