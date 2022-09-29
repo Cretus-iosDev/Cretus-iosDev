@@ -1,5 +1,5 @@
 - 👋 Hi, I’m  Rutik Maraskolhe also known as -> ( Cretus-iosDev )
-- 👀 I’m interested in ios and watchOS development
+- 👀 I know c++, DSA, OOPs, ios-development, Drupal-CMS, HTML, CSS, PHP, Js, Git, python, java, Spring-boot
 - 🌱 learning new things
 - 💞️ I’m looking to collaborate on with new people
 - 📫 How to reach me ( https://linktr.ee/Cretus_iosDev )
