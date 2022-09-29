@@ -19,8 +19,7 @@ You can click the Preview link to take a look at your changes.
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Cretus-iosDev&theme=great-gatsby&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Cretus-iosDev&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Cretus-iosDev&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
+[![@cretusdev's Holopin board](https://holopin.io/api/user/board?user=cretusdev)](https://holopin.io/@cretusdev)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Cretus-iosDev&icon=5&color=7)](https://visitcount.itsvg.in)
