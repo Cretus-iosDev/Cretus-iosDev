@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on with new people
 - 📫 How to reach me ( rutikmaraskolhe884@gmail.com )
 
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw1XxPooFgz-lmb01o1Og9rg&ust=1674398303268000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCMC0mPTx2PwCFQAAAAAdAAAAABAH
+ https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw1XxPooFgz-lmb01o1Og9rg&ust=1674398303268000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCMC0mPTx2PwCFQAAAAAdAAAAABAH
 
 <!---
 Cretus-iosDev/Cretus-iosDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
