@@ -1,4 +1,4 @@
-- 👋 Hi, I’m  Rutik Maraskolhe also known as -> ( Cretus-iosDev )
+- 👋 Hi, I’m  Rutik Maraskolhe also known as -> ( Cretus-Dev )
 - 👀 I know c++, DSA, OOPs, ios-development, Drupal-CMS, HTML, CSS, PHP, Js, Git, python, java, Spring-boot
 - 🌱 learning new things
 - 💞️ I’m looking to collaborate on with new people
