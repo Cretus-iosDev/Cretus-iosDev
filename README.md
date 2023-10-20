@@ -14,7 +14,8 @@ You can click the Preview link to take a look at your changes.
 <!-- [![@cretusdev's Holopin board](https://holopin.io/api/user/board?user=cretusdev)](https://holopin.io/@cretusdev) -->
 
 ## 🌐Socials
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/RutikMaraskolhe)  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@1413Rutik) 
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rutik-maraskolhe-358a24207/) 
+ [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@1413Rutik) 
 
 
 # 📊GitHub Stats :
